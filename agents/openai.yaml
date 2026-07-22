@@ -1,4 +1,4 @@
 interface:
   display_name: "融资调查与授信汇报"
-  short_description: "按专业网站路由核查本地资料，生成决策前置的融资调查与授信汇报"
-  default_prompt: "请使用 $research-pre-financing，结合电脑资料并按事项查询企查查类平台和权威网站，生成含股权图、三分钟汇报、偿债分析及证据索引的融资调查报告。"
+  short_description: "核查资料与专业网站，自动分析流水、关联关系和偿债能力"
+  default_prompt: "请使用 $research-pre-financing，建立结构化案件底稿，结合电脑资料及企查查类平台和权威网站，分析流水、股权关联、十二个月债务与 DSCR，并生成三分钟授信汇报、完整报告和证据索引。"
